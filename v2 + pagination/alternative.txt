@@ -1,0 +1,8 @@
+Il existe de nombreux autres logiciels et outils pour le web scraping en plus des scripts Python. 
+Par exemple, des solutions comme **Oc*op*r*e**, **P*rs*H*b** ou **We*H*r*y** offrent des interfaces graphiques intuitives qui permettent aux utilisateurs, même sans compétences en programmation, de récupérer des données de sites web. 
+
+   Ces outils proposent souvent des fonctionnalités avancées, telles que la gestion de la pagination, l'extraction de données dynamiques générées par JavaScript, ainsi que des options de programmation sans code. 
+D'autres logiciels comme **Scrapy** (un framework Python) ou **BeautifulSoup** sont également très populaires, mais nécessitent plus de connaissances techniques pour être utilisés efficacement. 
+       Ces alternatives à Python permettent de s'adapter à différents niveaux de compétence et à des besoins variés, tout en automatisant le processus d'extraction de données de manière rapide et flexible.
+
+plus d'info pour les logiciel sur discord.gg/
